@@ -1,5 +1,5 @@
 <img src="Image/Nothing.png" width="1400" height="250">
-<h1 align="center"> Hi I'm Ayush </h1>
+<h2 align="center"> Hey there... I'm Ayush </h1>
 <h3 align="center"> I'm a passionate Computer Science Student from India </h3>
 
 ## About Me
@@ -11,9 +11,13 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am still finding fun fact about me .
 
-![Andres’ GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush-sleeping&theme=synthwave&show_icons=true&count_private=true “Andres’ GutHub Stats”)
+## Technologies & Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-sleeping&theme=synthwave “Andres’ Top Languages Card”)
+## Github Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush-sleeping&theme=tokyonight&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-sleeping&theme=synthwave)
+
 
 
 
