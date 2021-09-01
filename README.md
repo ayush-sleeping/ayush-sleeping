@@ -1,5 +1,4 @@
-<img src="Image/Nothing.png" width="1400" height="250">
-<h2 align="center"> Hey there... I'm Ayush </h1>
+<h2 align="center"> Hey there... I'm Ayush "<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">" </h1>
 <h3 align="center"> I'm a passionate Computer Science Student from India </h3>
 
 ## About Me
@@ -11,12 +10,18 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am still finding fun fact about me .
 
-## Technologies & Tools
+## 🔧 Technologies & Tools
 
-## Github Stats
+## My GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush-sleeping&theme=tokyonight&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-sleeping&theme=synthwave)
+
+## &#x1f4c8; My GitHub Activity Graph
+
+ ![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ayush-sleeping&theme=xcode)
+
+
 
 
 
