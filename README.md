@@ -11,5 +11,9 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am still finding fun fact about me .
 
+![Andres’ GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush-sleeping&theme=synthwave&show_icons=true&count_private=true “Andres’ GutHub Stats”)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-sleeping&theme=synthwave “Andres’ Top Languages Card”)
+
 
 
