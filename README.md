@@ -30,7 +30,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush-sleeping&theme=tokyonight&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-sleeping&theme=synthwave)
 
-## &#x1f4c8; My GitHub Activity Graph
+## &#x1f4c8; My GitHub Graph Activity
 
 ![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ayush-sleeping&theme=xcode)
 
