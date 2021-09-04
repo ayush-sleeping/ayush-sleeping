@@ -1,5 +1,5 @@
 <h2 align="center"> Hey there... I'm Ayush "<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">" </h1>
-<h3 align="center"> I'm a passionate Computer Science Student from India </h3>
+<h3 align="center"> I'm a passionate (18 year old) Computer Science Student from India </h3>
 
 ## About Me
 - 🔭 I’m currently working on GirlScript Winter of Contributing (GWOC'21)
