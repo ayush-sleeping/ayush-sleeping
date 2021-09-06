@@ -2,17 +2,17 @@
 <h3 align="center"> I'm a passionate (18 year old) Computer Science Student from India </h3>
 
 ## About Me
-- 🔭 I’m currently working on GirlScript Winter of Contributing (GWOC'21)
+
+- 🔭 I’m currently working on GirlScript Winter of Contributing (GWOC'21) as a Contributor 
 - 🌱 I’m currently learning Fullstack Web Devlopment
 - 👯 I’m looking to collaborate on upcoming Open soure Program
 - 🤔 I’m looking for help with learning and exploring more in Android Devlopment
 - 📫 Connect with me: [Linkedin - @Ayush Mishra](https://www.linkedin.com/in/ayush-b-m/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I am still finding fun fact about me .
+- ⚡ Fun fact: I am still finding fun fact about me 
 
 ## 🔧 Technologies & Tools
-
-
+<br>
 
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="21px" height="21px"></a>
@@ -23,16 +23,22 @@
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="21px" height="21px"></a>
 <svg viewBox="0 0 128 128">
-
+<br>
 
 ## My GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush-sleeping&theme=tokyonight&show_icons=true&count_private=true)
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-sleeping&theme=synthwave)
+  
 
 ## &#x1f4c8; Recent Activity
 
 ![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ayush-sleeping&theme=xcode)
+  <br>
+  <br>
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=90EE90&lines=Check+Out+My+Projects+...)
 
 
 
