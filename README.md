@@ -1,13 +1,12 @@
-<h2 align="center"> Hey there... I'm Ayush "<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">" </h1>
-<h3 align="center"> I'm a passionate (18 year old) Computer Science Student from India </h3>
+<h2 align="center"> "Hey, How you doin'?" <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  </h1>
 
 ## About Me
 
-- 🔭 I’m currently working on GirlScript Winter of Contributing (GWOC'21) as a Contributor 
+- 🔭 I’m currently working on my Personal Project
 - 🌱 I’m currently learning Fullstack Web Devlopment
 - 👯 I’m looking to collaborate on upcoming Open soure Program
 - 🤔 I’m looking for help with learning and exploring more in Android Devlopment
-- 📫 Connect with me: [Linkedin - @Ayush Mishra](https://www.linkedin.com/in/ayush-b-m/)
+- 📫 Connect with me: [Linkedin - @Ayush Mishra](https://www.linkedin.com/in/ayush-b-m/) &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/ayush-b-m/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am still finding fun fact about me 
 
@@ -25,19 +24,17 @@
 <svg viewBox="0 0 128 128">
 <br>
 
-## My GitHub Stats
+## &#x1f4c8; Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush-sleeping&theme=tokyonight&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-sleeping&theme=synthwave)
   
 
-## &#x1f4c8; Recent Activity
 
-![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ayush-sleeping&theme=xcode)
-  <br>
-  <br>
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=90EE90&lines=Check+Out+My+Projects+...)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?width=640&lines=Checkout+my+Projects...+and+give+Support+by+giving+STAR+...)
+
+  
 
 
 
