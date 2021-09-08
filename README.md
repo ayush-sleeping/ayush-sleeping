@@ -2,7 +2,7 @@
 
 
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:   &nbsp;&nbsp;    I'm  &nbsp; Ayush Mishra 
+## &nbsp;  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> &nbsp; About Me:   &nbsp;&nbsp;    I'm  &nbsp; Ayush Mishra 
 
 - 🤝 Socials: &nbsp;&nbsp;&nbsp;  <a href="https://www.linkedin.com/in/ayush-b-m/">
       <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white"> </a>
