@@ -2,7 +2,7 @@
 
 
 
-## &nbsp;  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> &nbsp; About Me:   &nbsp;&nbsp;    I'm  &nbsp; Ayush Mishra 
+##   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">  About Me:   &nbsp;&nbsp;    I'm  &nbsp; Ayush Mishra 
 
 - 🤝 Socials: &nbsp;&nbsp;&nbsp;  <a href="https://www.linkedin.com/in/ayush-b-m/">
       <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white"> </a>
@@ -15,7 +15,7 @@
 - ⚡ Fun fact: I am still finding fun fact about me 
 
 
-## <h1 align="center"> 🔧 Skills & Tools: </h1>
+## 🔧 &nbsp; Skills & Tools:
 
 <p align="center">
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
@@ -31,7 +31,7 @@
 <br />
 
 
-<h1 align="center"> 📊 Stats: </h1>
+## 📊 &nbsp; Stats: 
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -43,7 +43,8 @@
 </p>
 <br />
   
-<h1 align="center"> <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'>  Contributions: </h1>
+## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> &nbsp; Contributions: 
+
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=ayush-sleeping&theme=react&background=0d1117&border=666">
@@ -57,7 +58,7 @@
 
   
 ## 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?width=640&lines=Checkout+my+Projects......)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?width=640&lines=Checkout+my+Projects......)
 
   
 
