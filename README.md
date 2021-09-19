@@ -14,19 +14,18 @@
 
 ```python
 #!/usr/bin/python
-# -*- coding: utf-8 -*-
 class Developer:
 
     def __init__(self):
-        self.name = "Ayush Mishra"
-        self.role = "Developer"
-        self.language_spoken = ["hi_IN", "en_US"]
-        currently.working = "Personal Project"
-        currently.learning = "Fullstack Web Devlopment"
-        looking.to_collaborate = "upcoming Open soure Programs"
-        looking.for.help.with_learning_and_exploring.more.in = "Android Devlopment"
+        self.name =  "Ayush Mishra"
+        self.role =  "Developer"
+        self.language_spoken =  ["hi_IN", "en_US"]
+        currently.working =  "Personal Project"
+        currently.learning =  "Fullstack Web Devlopment"
+        looking.to_collaborate =  "upcoming Open soure Programs"
+        looking.for.help.with_learning_and_exploring.more.in =  "Android Devlopment"
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+        print( " Thanks for dropping by, hope you find some of my work interesting. " )
 
 me = Developer()
 me.say_hi()
