@@ -7,8 +7,8 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ayush-sleeping.ayush-sleeping)
 &nbsp;&nbsp;  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-&nbsp;&nbsp;&nbsp;    <a href="https://www.linkedin.com/in/ayush-b-m/">
-<img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+&nbsp;&nbsp;    <a href="https://www.linkedin.com/in/ayush-b-m/">
+<img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" width="85" > </a>
 #
 
 
@@ -35,8 +35,7 @@ me.say_hi()
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?width=640&lines=Checkout+my+Projects......)
 <p>
   <a href="https://github.com/ayush-sleeping?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p> 
-<br>
+</p> <br>
 
 
 
