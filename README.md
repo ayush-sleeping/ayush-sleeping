@@ -1,9 +1,12 @@
 ## "Hey, How you doin'?" <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
 <h3>
      Welcome to Ayush Mishra's profile!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">
 </h3>
 
+<!-- ---------------------------------------------------------------------------------------- -->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ayush-sleeping.ayush-sleeping)
 &nbsp;&nbsp;  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
@@ -11,6 +14,7 @@
 <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" width="85" > </a>
 #
 
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ```python
 #!/usr/bin/python
@@ -31,14 +35,15 @@ me = Developer()
 me.say_hi()
 ```
 
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
 #
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?width=640&lines=Checkout+my+Projects......)
 <p>
   <a href="https://github.com/ayush-sleeping?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p> <br>
 
-
-
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## 🛠️ My favorite tools
 
@@ -54,15 +59,21 @@ me.say_hi()
 <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" width="66" ></a>
 </p>
 
+<!-- ---------------------------------------------------------------------------------------- -->
+
 ### 🧰 Frameworks and libraries:
 <p>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB" width="70" ></a>
 </p>
 
+<!-- ---------------------------------------------------------------------------------------- -->
+
 ### 🗄️ Databases: 
 <p>
 <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
 </p>
+
+<!-- ---------------------------------------------------------------------------------------- -->
 
 ### 💻 Software and tools:
 <p>
@@ -74,11 +85,11 @@ me.say_hi()
 </p>
 <br />
 
-
-
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'>  &nbsp;  Stats & Contribution Stuffs (for those who like):
 
+<!-- ---------------------------------------------------------------------------------------- -->
 
 <details>
   <summary><b>⚡ GitHub Stats</b></summary>
@@ -93,6 +104,7 @@ me.say_hi()
 </div>
      </details>
      
+<!-- ---------------------------------------------------------------------------------------- -->
 
 <details>	
   <summary><b>☄️ GitHub Streaks</b></summary>
@@ -104,6 +116,7 @@ me.say_hi()
      </div>
 </details>
 
+<!-- ---------------------------------------------------------------------------------------- -->
 
 <details>
      <summary><b>📊 GitHub Graphs </b></summary>
@@ -113,6 +126,7 @@ me.say_hi()
      </div>
 </details>
 
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <br>
 
