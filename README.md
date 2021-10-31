@@ -9,7 +9,7 @@
 <!-- ---------------------------------------------------------------------------------------- -->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ayush-sleeping.ayush-sleeping)
-&nbsp;&nbsp;  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+&nbsp;&nbsp;  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ayush-sleeping)
 &nbsp;&nbsp;    <a href="https://www.linkedin.com/in/ayush-b-m/">
 <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" width="85" > </a>
 #
