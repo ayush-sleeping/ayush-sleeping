@@ -19,8 +19,8 @@
 ```python
 #!/usr/bin/python
 class Developer:
-
     def __init__(self):
+    
         self.name =  "Ayush Mishra"
         self.role =  "Developer"
         self.language_spoken =  ["hi_IN", "en_US"]
@@ -28,7 +28,9 @@ class Developer:
         currently.learning =  "Fullstack Web Devlopment"
         looking.to_collaborate =  "upcoming Open soure Programs"
         looking.for.help.with_learning_and_exploring.more.in =  "Android Devlopment"
+        
     def say_hi(self):
+    
         print( " Thanks for dropping by, hope you find some of my work interesting. " )
 
 me = Developer()
@@ -41,14 +43,18 @@ me.say_hi()
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?width=640&lines=Checkout+my+Projects......)
 <p>
   <a href="https://github.com/ayush-sleeping?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p> <br>
+</p> 
+<br>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## 🛠️ My favorite tools
 
-### 👨‍💻 Programming languages:
-<p>
+<details>	
+  <summary><b> 👨‍💻 Programming languages: </b></summary>
+     <br />
+     <div>
+     <p>
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
 <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
@@ -58,33 +64,50 @@ me.say_hi()
 <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
 <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" width="66" ></a>
 </p>
+     </div>
+</details>
 
 <!-- ---------------------------------------------------------------------------------------- -->
 
-### 🧰 Frameworks and libraries:
-<p>
+<details>	
+  <summary><b>🧰 Frameworks and libraries: </b></summary>
+     <br />
+     <div>
+     <p>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB" width="70" ></a>
 </p>
+     </div>
+</details>
 
 <!-- ---------------------------------------------------------------------------------------- -->
 
-### 🗄️ Databases: 
-<p>
+<details>	
+  <summary><b>🗄️ Databases: </b></summary>
+     <br />
+     <div>
+     <p>
 <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
 </p>
+     </div>
+</details>
 
 <!-- ---------------------------------------------------------------------------------------- -->
 
-### 💻 Software and tools:
-<p>
+<details>	
+  <summary><b> 💻 Software and tools:</b></summary>
+     <br />
+     <div>
+    <p>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" width="75" ></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-
 </p>
-<br />
+     </div>
+</details>
 
+<br>
+<br>
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'>  &nbsp;  Stats & Contribution Stuffs (for those who like):
