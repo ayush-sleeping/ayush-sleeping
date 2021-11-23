@@ -1,20 +1,27 @@
 ## "Hey, How you doin'?" <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
-<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
 
 <h3>
-     Welcome to Ayush Mishra's profile!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">
+     Welcome to Ayush Mishra's profile!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="60px">
 </h3>
 
 <!-- ---------------------------------------------------------------------------------------- -->
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ayush-sleeping.ayush-sleeping)
-&nbsp;&nbsp;  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ayush-sleeping)
-&nbsp;&nbsp;    <a href="https://www.linkedin.com/in/ayush-b-m/">
-<img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" width="85" > </a>
-#
 
-<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<a href="#"><img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=ayush-sleeping.ayush-sleeping" width="110" ></a>
+&nbsp;&nbsp;    <a href="#"><img alt="Open Source Love" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" width="148" ></a>
+&nbsp;&nbsp;    <a href="https://www.linkedin.com/in/ayush-b-m/">
+<img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" width="95" > </a>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
 
 ```python
 #!/usr/bin/python
@@ -39,53 +46,58 @@ me.say_hi()
 
 <br>
 
-<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
 
 ## 🛠️ My favorite tools
  
 ### 👨‍💻 Programming languages:
 <p>
-<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-<a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-<a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-<a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-<a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" width="66" ></a>
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" width="90" ></a>
+<a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white" width="48" ></a>
+<a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white" width="75" ></a>
+<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" width="70" ></a>
+<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" width="83" ></a>
+<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" width="117" ></a>
+<a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" width="95" ></a>
+<a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" width="90" ></a>
 </p>
 
 <!-- ---------------------------------------------------------------------------------------- -->
 
 ### 🧰 Frameworks and libraries:
 <p>
-<a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB" width="70" ></a>
+<a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB" width="87" ></a>
 </p>
 
 <!-- ---------------------------------------------------------------------------------------- -->
 
 ### 🗄️ Databases: 
 <p>
-<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"  width="97" ></a>
 </p>
 
 <!-- ---------------------------------------------------------------------------------------- -->
 
 ### 💻 Software and tools:
 <p>
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-<a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" width="75" ></a>
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" width="165" ></a>
+<a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" width="90" ></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" width="53" ></a>
+<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" width="135" ></a>
 </p>
 
 <br />
 <br>
-<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
 
 ## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'>  &nbsp;  Stats & Contribution Stuffs (for those who like):
 
+
 <!-- ---------------------------------------------------------------------------------------- -->
+
 
 <details>
   <summary><b>⚡ GitHub Stats</b></summary>
@@ -122,7 +134,8 @@ me.say_hi()
      </div>
 </details>
 
-<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
 
 <br>
 
@@ -132,13 +145,14 @@ me.say_hi()
 
 </div>
 
-<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 #
-![Typing SVG](https://readme-typing-svg.herokuapp.com?width=640&lines=Checkout+my+Projects......)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231EB6FF&size=17&width=500&lines=Click+on+Below+badge+for+all+my+%22+GitHub+Work+%22+...)](https://git.io/typing-svg)
 <p>
-  <a href="https://github.com/ayush-sleeping?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/ayush-sleeping/All-my-work..."><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/All%20My%20Contribution-%20Repository-red" width="255" /></a>
 </p> 
 <br>
 
-<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------>
