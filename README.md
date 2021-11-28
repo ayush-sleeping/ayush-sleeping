@@ -1,5 +1,5 @@
 <div align="center">
-<h2> "Hey, How you doin'?" <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ,  &nbsp; &nbsp; Welcome to &nbsp; Ayush  Mishra's &nbsp; profile!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px">. </h2>
+<h2> "Hey, How you doin'?" <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ,  &nbsp; &nbsp; Welcome to  Ayush  Mishra's  profile!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px">. </h2>
      <p>  GWoC'21  |  Hacktoberfest'21  |  Open Source Contributor  |  Front-end Web developer  |  BSc.CS - Student  |  "hi_IN", "en_US"  </p>
 </div> 
 
