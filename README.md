@@ -4,7 +4,7 @@
 
 <div align="center">
 <h2> "Hey, How you doin'?" <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ,  &nbsp; &nbsp; Welcome to  "Ayush  Mishra's"  profile!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px">. </h2>
-     <p>  GWoC'21  |  Hacktoberfest'21  |  Open Source Contributor  |  Front-end Web developer  |  BSc.CS - Student  |  "hi_IN", "en_US"  </p>
+     <p>  GWoC'21  |  Hacktoberfest'21  |  Open Source Enthusiastic  |  Front-end Web developer  |  BSc.CS - Student  |  "hi_IN", "en_US"  </p>
 </div> 
 
 <br>
@@ -28,11 +28,14 @@
 ```python
 #!/usr/bin/python
   class Developer:
-  
-      def __init__(self):
+    def __init__(self):
+    
           self.role  =  "Developer"
           self.language_spoken  =  ["hi_IN", "en_US"]
           currently.working  =  "Personal Project"
+          Skilled in  =  C++, Frontend (HTML, CSS, Javascript), Git/GitHub,
+          Worked with  =  Android Dev. with Kotlin, C, Python, DSA,
+          Learning  =   Bootstrap, Reactjs, Nodejs, Mangodb,
           currently.learning  =  "Fullstack Web Devlopment"
           looking.to_collaborate  =  "upcoming Open soure Programs"
           looking.for.help.with_learning_and_exploring.more.in  =  "Android Devlopment"
