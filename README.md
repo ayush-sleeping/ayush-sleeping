@@ -33,10 +33,10 @@
           self.role  =  "Developer"
           self.language_spoken  =  ["hi_IN", "en_US"]
           currently.working  =  "Personal Project"
-          Skilled in  =  C++, Frontend (HTML, CSS, Javascript), Git/GitHub,
-          Worked with  =  Android Dev. with Kotlin, C, Python, DSA,
-          Learning  =   Bootstrap, Reactjs, Nodejs, Mangodb,
-          currently.learning  =  "Fullstack Web Devlopment"
+          skilled.in  =  "C++, Frontend (HTML, CSS, Javascript), Git/GitHub"
+          worked.with  =  "Android Dev. with Kotlin, C, Python, DSA"
+          learning  =   "Bootstrap, Reactjs, Nodejs, Mangodb"
+          currently.exploring  =  "Fullstack Web Devlopment"
           looking.to_collaborate  =  "upcoming Open soure Programs"
           looking.for.help.with_learning_and_exploring.more.in  =  "Android Devlopment"
         
