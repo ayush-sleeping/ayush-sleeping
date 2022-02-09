@@ -30,52 +30,72 @@
 #
 ```python
 #!/usr/bin/python
-  class Developer:
-    def __init__(self):
+ class Developer:
+  def __init__(self):
     
           self.role  =  "Developer"
           self.language_spoken  =  ["hi_IN", "en_US"]
           currently.working  =  "Personal Project"
-          skilled.in  =  "C++, Frontend (HTML, CSS, Javascript), Git/GitHub"
+          skilled.in  =  "C++, HTML, CSS, Javascript, Git/GitHub"
           worked.with  =  "Android Dev. with Kotlin, C, Python, DSA"
           learning  =   "Bootstrap, Reactjs, Nodejs, Mangodb"
           currently.exploring  =  "Fullstack Web Devlopment"
           looking.to_collaborate  =  "upcoming Open soure Programs"
           looking.for.help.with_learning_and_exploring.more.in  =  "Android Devlopment"
         
-     def say_hi(self):
+  def say_hi(self):
           print( " Thanks for dropping by, hope you find some of my work interesting. " )
 
 me = Developer()
 me.say_hi()
 ```
-<br>
+
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------------->
-
+<div align="center">  <h3> Connect with me here :   </h3> </div> 
+     
 <div align="center"> 
-     <p> 
-          <a href="https://www.linkedin.com/in/ayush-b-m/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  > </a>  &nbsp; 
-
-<a href="https://twitter.com/AyushBM1">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  > </a>  &nbsp; 
-          
-<a href="https://www.instagram.com/ayush.bm/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  > </a>
-          
-          
-</p>
+     <table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/ayush-b-m/"> 
+        <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
+      </a> 
+    </td>
+    <td>
+      <a href="https://github.com/ayush-sleeping"> 
+        <img height="30" src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/> 
+      </a>
+    </td>
+    <td>
+      <a href="https://twitter.com/AyushBM1">
+        <img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> 
+      </a>
+    </td>
+    <td>
+      <a href="https://www.instagram.com/ayush.bm/"> 
+        <img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
+
+     
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 
-## 🛠️ My favorite tools
- 
-### 👨‍💻 Programming languages:
-<p>
-<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  ></a>
+## 🛠️ My favorite tools :
+     
+<div align="center">
+<p> <h4> 👨‍💻 Programming languages &nbsp; |  &nbsp; 🧰 Frameworks and libraries  &nbsp; |  &nbsp; 🗄️ Databases  &nbsp; |  &nbsp; 💻 Software and tools  </h4> </p>
+</div> 
+
+<br>
+
+<p align="center">
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  ></a>
 <a href="#"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"   ></a>
 <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"  ></a>
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  ></a>
@@ -83,34 +103,17 @@ me.say_hi()
 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  ></a>
 <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"  ></a>
 <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"  ></a>
-</p>
-
-<!-- ---------------------------------------------------------------------------------------- -->
-
-### 🧰 Frameworks and libraries:
-<p>
-     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  ></a>
+  <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  ></a>
      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  ></a>
-</p>
-
-<!-- ---------------------------------------------------------------------------------------- -->
-
-### 🗄️ Databases: 
-<p>
-<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"   ></a>
-</p>
-
-<!-- ---------------------------------------------------------------------------------------- -->
-
-### 💻 Software and tools:
-<p>
- <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"  ></a>
+    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"   ></a>
+  <a<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"  ></a>
  <a href="#"><img alt="Google chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"  ></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"  ></a>
 <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"  ></a>
+     
 </p>
 
-<br />
+
 <br>
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
@@ -161,12 +164,6 @@ me.say_hi()
 
 #
 
-<div align="center">
-     
-### Show some ❤️ by starring some of the repositories!
-     
-     
-</div>
 <p align="center">
      <a href="#"><img alt="Open Source Love" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102"  ></a>
   <a href="https://github.com/ayush-sleeping/All-my-work..."><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/All%20My%20Contribution-%20Repository-red" width="205" /></a>
