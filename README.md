@@ -162,13 +162,6 @@ me.say_hi()
 </details>
 
 
-<a href='https://github.com/ayush-sleeping/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/ayush-sleeping/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/ayush-sleeping/github-stats-transparent/output/generated/languages.svg)
-
-</a>
-
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 #
