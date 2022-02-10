@@ -1,5 +1,6 @@
 <div id="top"></div>
 
+
 <!-- ---------------------------------------------------------------------------------------- -->
 
 <div align="center">
@@ -159,6 +160,14 @@ me.say_hi()
           <img src="https://activity-graph.herokuapp.com/graph?username=ayush-sleeping&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
      </div>
 </details>
+
+
+<a href='https://github.com/ayush-sleeping/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/ayush-sleeping/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/ayush-sleeping/github-stats-transparent/output/generated/languages.svg)
+
+</a>
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
