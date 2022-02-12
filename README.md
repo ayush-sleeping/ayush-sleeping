@@ -27,30 +27,19 @@
      <summary><b> For more detail :</b></summary>
      
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<br>
+     
+• Achievement : 
+- Successfully, completed "GWOC - 2021", Also become the Top Performer in 200+ contributor in my Domain ( 32 - PRs got accepted and merged ) .
+- Successfully, completed "Hacktoberfest - 2021", ( All the 4 PR got accepted and merged ) .
+- Successfully, completed "Crio Winter of Doing 2021", Stage 1.
 
-#
-```python
-#!/usr/bin/python
- class Developer:
-  def __init__(self):
-    
-          self.role  =  "Developer"
-          self.language_spoken  =  ["hi_IN", "en_US"]
-          currently.working  =  "Personal Project"
-          skilled.in  =  "C++, HTML, CSS, Javascript, Git/GitHub"
-          worked.with  =  "Android Dev. with Kotlin, C, Python, DSA"
-          learning  =   "Bootstrap, Reactjs, Nodejs, Mangodb"
-          currently.exploring  =  "Fullstack Web Devlopment"
-          looking.to_collaborate  =  "upcoming Open soure Programs"
-          looking.for.help.with_learning_and_exploring.more.in  =  "Android Devlopment"
-        
-  def say_hi(self):
-          print( " Thanks for dropping by, hope you find some of my work interesting. " )
+• Area of Interest : 
+Problem Solving , Open Source , Full stack Web Development ...     
 
-me = Developer()
-me.say_hi()
-```
-
+     
+<br>
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <div align="center">  <h3> Connect with me here :   </h3> </div> 
