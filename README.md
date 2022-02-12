@@ -31,12 +31,11 @@
 <br>
      
 • Achievement : 
-- Successfully, completed "GWOC - 2021", Also become the Top Performer in 200+ contributor in my Domain ( 32 - PRs got accepted and merged ) .
-- Successfully, completed "Hacktoberfest - 2021", ( All the 4 PR got accepted and merged ) .
-- Successfully, completed "Crio Winter of Doing 2021", Stage 1.
+- Successfully, completed "GWOC - 2021" (Open Source Programs), Also become the Top Performer in 200+ contributor in my Domain ( 32 - PRs got accepted and merged ) .
+- Successfully, completed "Hacktoberfest - 2021" (Open Source Programs), ( All the 4 PR got accepted and merged ) .
+- Successfully, completed "Crio Winter of Doing - 2021" (Open Source Programs), Stage 1.
 
-• Area of Interest : 
-Problem Solving , Open Source , Full stack Web Development ...     
+• Skilled in : Frontend Web-Development, Baiscs of Android-Dev. (kotlin) 
 
      
 <br>
