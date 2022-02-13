@@ -35,7 +35,9 @@
 - Successfully, completed "Hacktoberfest - 2021" (Open Source Programs), ( All the 4 PR got accepted and merged ) .
 - Successfully, completed "Stage 1 of Crio Winter of Doing - 2021" (Open Source Programs).
 
-• Skilled in : Frontend Web-Development, Baiscs of Android-Dev. (kotlin) 
+• Skilled in : 
+- Frontend Web-Development, 
+- Baiscs of Android-Dev. (kotlin) 
 
      
 <br>
