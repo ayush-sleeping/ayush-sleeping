@@ -37,7 +37,7 @@
 
 • Skilled in : 
 - Frontend Web-Development, 
-- Baiscs of Android-Dev. (kotlin) 
+- Basics of Android-Dev. (kotlin) 
 
      
 <br>
