@@ -5,7 +5,7 @@
 
 <div align="center">
 <h2> "Hey, How you doin'?" <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ,  &nbsp; &nbsp; Welcome to  "Ayush  Mishra's"  profile!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px">. </h2>
-     <p>  GWoC'21  |  Hacktoberfest'21  |  Open Source Enthusiastic  |  Front-end Web developer  |  BSc.CS - Student  |  "hi_IN", "en_US"  </p>
+     <p>  JWOC'22 | GWoC'21  |  Hacktoberfest'21  |  Open Source Enthusiastic  |  Front-end Web developer  |  BSc.CS - Student </p>
 </div> 
 
 <br>
@@ -31,9 +31,10 @@
 <br>
      
 • Achievement : 
+- Successfully, completed "JWOC - 2022" (Open Source Programs), ( 9 - PRs got accepted and merged ) .     
 - Successfully, completed "GWOC - 2021" (Open Source Programs), Also become the Top Performer in 200+ contributor in my Domain ( 32 - PRs got accepted and merged ) .
 - Successfully, completed "Hacktoberfest - 2021" (Open Source Programs), ( All the 4 PR got accepted and merged ) .
-- Successfully, completed "Stage 1 of Crio Winter of Doing - 2021" (Open Source Programs).
+- Successfully, completed "Stage 1 of Crio Winter of Doing - 2021" .
 
 • Skilled in : 
 - Frontend Web-Development, 
