@@ -5,7 +5,7 @@
 
 <div align="center">
 <h2> "Hey, How you doin'?" <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ,  &nbsp; &nbsp; Welcome to  "Ayush  Mishra's"  profile!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px">. </h2>
-     <p>  Skilled in Front-end Web developer  |  Basics Knowledge of Android-Dev. (kotlin)  |  BSc CS - Student </p>
+     <p>  Skilled in Front-end Web development  |  Basics Knowledge of Android-Dev. (kotlin)  |  BSc CS - Student </p>
 </div> 
 
 <br>
@@ -22,7 +22,19 @@
   <a href="#"><img alt="Open Source Love" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/ayush-sleeping" > </a>
      
 </p>
+<br>
 
+- 👋 Hi, I’m Ayush Mishra, Pursuing "BSc in Computer Science" from [SN college](https://sncollege.com/) ( Affiliated to the Mumbai University )
+- 👀 I’m interested in Fullstack Web. Developing and Software dEV
+- 🌱 I’m currently learning "Reactjs" and "Backend Development" 
+- 💞️ I’m looking to collaborate on some "Frontend Projects" 
+- 📫 Skilled in "Front-end Web development" and Basics Knowledge of "Android-Dev. (kotlin)"
+
+<br>
+
+
+<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <details> 
      <summary><b> You can Contact and Connect with me here :</b></summary>
      
