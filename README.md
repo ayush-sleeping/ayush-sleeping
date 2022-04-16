@@ -24,7 +24,7 @@
 </p>
 
 <details> 
-     <summary><b> You can Contact with me here :</b></summary>
+     <summary><b> You can Contact and Connect with me here :</b></summary>
      
      
      
