@@ -24,27 +24,15 @@
 </p>
 
 <details> 
-     <summary><b> For more detail :</b></summary>
+     <summary><b> You can Contact with me here :</b></summary>
+     
+     
      
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <br>
-     
-• Achievement : 
-- Successfully, completed "JWOC - 2022" (Open Source Programs), ( 9 - PRs got accepted and merged ) .     
-- Successfully, completed "GWOC - 2021" (Open Source Programs), Also become the Top Performer in 200+ contributor in my Domain ( 32 - PRs got accepted and merged ) .
-- Successfully, completed "Hacktoberfest - 2021" (Open Source Programs), ( All the 4 PR got accepted and merged ) .
-- Successfully, completed "Stage 1 of Crio Winter of Doing - 2021" .
 
-• Skilled in : 
-- Frontend Web-Development, 
-- Basics of Android-Dev. (kotlin) 
-
-     
 <br>
-
-<!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------------->
-<div align="center">  <h3> Connect with me here :   </h3> </div> 
      
 <div align="center"> 
      <table>
@@ -72,100 +60,5 @@
   </tr>
 </table>
 </div>
-
-
      
-<!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------------->
-
-
-## 🛠️ My favorite tools :
-     
-<div align="center">
-<p> <h4> 👨‍💻 Programming languages &nbsp; |  &nbsp; 🧰 Frameworks and libraries  &nbsp; |  &nbsp; 🗄️ Databases  &nbsp; |  &nbsp; 💻 Software and tools  </h4> </p>
-</div> 
-
-<br>
-
-<p align="center">
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  ></a>
-<a href="#"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"   ></a>
-<a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"  ></a>
-<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  ></a>
-<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  ></a>
-<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  ></a>
-<a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"  ></a>
-<a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"  ></a>
-  <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  ></a>
-     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  ></a>
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"   ></a>
-  <a<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"  ></a>
- <a href="#"><img alt="Google chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"  ></a>
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"  ></a>
-<a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"  ></a>
-     
-</p>
-
-
-<br>
-<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------->
-
-
-## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'>  &nbsp;  Stats & Contribution Stuffs (for those who like):
-
-
-<!-- ---------------------------------------------------------------------------------------- -->
-
-
-<details>
-  <summary><b>⚡ GitHub Stats</b></summary>
-     <br />
-     <div>
-     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ayush-sleeping&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true" />
-    </a>
-     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-sleeping&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-</div>
-     </details>
- 
- 
-<!-- ---------------------------------------------------------------------------------------- -->
-
-<details>	
-  <summary><b>☄️ GitHub Streaks</b></summary>
-     <br />
-     <div>
-     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-sleeping&theme=react&border=61dafb&hide_border=true" />
-    </a>
-     </div>
-</details>
-
-<!-- ---------------------------------------------------------------------------------------- -->
-
-<details>
-     <summary><b>📊 GitHub Graphs </b></summary>
-     <br />
-     <div>
-          <img src="https://activity-graph.herokuapp.com/graph?username=ayush-sleeping&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-     </div>
-</details>
-
-
-<!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------------->
-
-#
-
-<p align="center">
-     <a href="#"><img alt="Open Source Love" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102"  ></a>
-  <a href="https://github.com/ayush-sleeping/All-my-work..."><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/All%20My%20Contribution-%20Repository-red" width="205" /></a>
-</p> 
-
-<!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------------->
-
-<p align="right"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-blueviolet?style=for-the-badge" /></a></p>
-
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------>
-
- </details>         
+</details>         
