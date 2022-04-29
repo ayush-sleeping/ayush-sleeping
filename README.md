@@ -25,10 +25,10 @@
 <br>
 
 - 👋 Hi, I’m Ayush Mishra, Pursuing "BSc in Computer Science" from [SN college](https://sncollege.com/) ( Affiliated to the Mumbai University )
-- 👀 I’m interested in Fullstack Web. Developing and Software dEV
-- 🌱 I’m currently learning "Reactjs" and "Backend Development" 
-- 💞️ I’m looking to collaborate on some "Frontend Projects" 
-- 📫 Skilled in "Front-end Web development" and Basics Knowledge of "Android-Dev. (kotlin)"
+- 👀 I’m interested in [Fullstack Web. Developing](https://www.geeksforgeeks.org/what-is-full-stack-development/) and [Software dEV](https://en.wikipedia.org/wiki/Software_development)
+- 🌱 I’m currently learning [Reactjs](https://reactjs.org/) Framework and [Backend Development](https://www.guru99.com/what-is-backend-developer.html) 
+- 💞️ I’m looking to collaborate on some [Frontend Projects](https://www.freecodecamp.org/news/front-end-developer-what-is-front-end-development-explained-in-plain-english/) 
+- 📫 Skilled in "Front-end Web development" , Basics Knowledge of "Android-Dev. (kotlin)" and C++ .
 
 <br>
 
@@ -36,7 +36,7 @@
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <details> 
-     <summary><b> You can Contact and Connect with me here :</b></summary>
+     <summary> You can Contact and Connect with me here : </summary>
      
      
      
@@ -74,3 +74,53 @@
 </div>
      
 </details>         
+
+<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<details> 
+     <summary> GitHub Stats, Streaks & Contribution Stuffs (for those who like): </summary>
+     
+<br>
+<!-- ---------------------------------------------------------------------------------------- -->
+
+
+<details>
+  <summary><b>⚡ GitHub Stats</b></summary>
+     <br />
+     <div>
+     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ayush-sleeping&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true" />
+    </a>
+     <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-sleeping&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+</div>
+     </details>
+ 
+ 
+<!-- ---------------------------------------------------------------------------------------- -->
+
+<details>	
+  <summary><b>☄️ GitHub Streaks</b></summary>
+     <br />
+     <div>
+     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-sleeping&theme=react&border=61dafb&hide_border=true" />
+    </a>
+     </div>
+</details>
+
+<!-- ---------------------------------------------------------------------------------------- -->
+
+<details>
+     <summary><b>📊 GitHub Graphs </b></summary>
+     <br />
+     <div>
+          <img src="https://activity-graph.herokuapp.com/graph?username=ayush-sleeping&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+     </div>
+</details>
+
+
+<!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------------->
+</details>              
