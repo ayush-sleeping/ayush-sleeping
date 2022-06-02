@@ -4,7 +4,7 @@
 <!-- ---------------------------------------------------------------------------------------- -->
 
 <div align="center">
-<h2> "Hey, How you doin'?" <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ,  &nbsp; &nbsp; Welcome to  "Ayush  Mishra's"  profile!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px">. </h2>
+<h2> "Hey, How you doin'?" <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ,  &nbsp; &nbsp; Welcome to  "Ayush  Mishra's"  profile!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif"  height="40">. </h2>
      <p>  Skilled in Front-end Web development  |  Basics Knowledge of Android-Dev. (kotlin)  |  BSc CS - Student </p>
 </div> 
 
