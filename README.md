@@ -26,9 +26,9 @@
 
 - 👋 Hi, I’m Ayush Mishra, Completed "BSc in Computer Science" from [SN college](https://sncollege.com/) ( Affiliated to the Mumbai University )
 - 👀 I’m interested in [Fullstack Web. Developing](https://www.geeksforgeeks.org/what-is-full-stack-development/) and [Software dEV](https://en.wikipedia.org/wiki/Software_development)
-- 🌱 I’m currently learning [Reactjs](https://reactjs.org/) Framework and [Backend Development](https://www.guru99.com/what-is-backend-developer.html) 
-- 💞️ I’m looking to collaborate on some [Frontend Projects](https://www.freecodecamp.org/news/front-end-developer-what-is-front-end-development-explained-in-plain-english/) 
-- 📫 Skilled in "Front-end Web development" , Basics Knowledge of "Android-Dev. (kotlin)" and C++ .
+- 🌱 I’m currently learning Java FullStack Development
+- 💞️ I’m looking to collaborate on some Java Projects
+- 📫 Skilled in Java, JavaScript.
 
 <br>
 
