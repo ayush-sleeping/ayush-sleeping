@@ -5,7 +5,7 @@
 
 <div align="center">
 <h2> "Hey, How you doin'?" <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ,  &nbsp; &nbsp; Welcome to  "Ayush  Mishra's"  profile!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif"  height="40">. </h2>
-     <p>  Skilled in Front-end Web development  |  Basics Knowledge of Android-Dev. (kotlin)  |  BSc CS - Student </p>
+     <p>  Skilled in Web development  |  Bachelor of Science in Computer Science - Graduated 2023 </p>
 </div> 
 
 <br>
@@ -26,8 +26,8 @@
 
 - 👋 Hi, I’m Ayush Mishra, Completed "BSc in Computer Science" from [SN college](https://sncollege.com/) ( Affiliated to the Mumbai University )
 - 👀 I’m interested in [Fullstack Web. Developing](https://www.geeksforgeeks.org/what-is-full-stack-development/) and [Software dEV](https://en.wikipedia.org/wiki/Software_development)
-- 🌱 I’m currently learning Java FullStack Development
-- 💞️ I’m looking to collaborate on some Java Projects
+- 🌱 I’m currently learning FullStack Web Development
+- 💞️ I’m trying make some good Personal Projects now a days
 - 📫 Skilled in Java, JavaScript.
 
 <br>
@@ -124,3 +124,12 @@
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------------->
 </details>              
+
+<br>
+
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+[![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://github.com/ayush-sleeping) 
+[![Think Big](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://github.com/ayush-sleeping)
+[![Work Hard](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://github.com/ayush-sleeping)
