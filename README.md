@@ -24,11 +24,12 @@
 </p>
 <br>
 
-- 👋 Hi, I’m Ayush Mishra, Completed "BSc in Computer Science" from [SN college](https://sncollege.com/) ( Affiliated to the Mumbai University )
+- 👋 Hi, I’m Ayush Mishra, A full-stack developer with 1+ years of experience in Laravel, JavaScript, and REST API development.
+- 🎓 Completed "Bachelor Of Science in Computer Science" from [SN college](https://sncollege.com/) ( Affiliated to the Mumbai University ), 2020 - 2023
 - 👀 I’m interested in [Fullstack Web. Developing](https://www.geeksforgeeks.org/what-is-full-stack-development/) and [Software dEV](https://en.wikipedia.org/wiki/Software_development)
 - 🌱 I’m currently learning FullStack Web Development
 - 💞️ I’m trying make some good Personal Projects now a days
-- 📫 Skilled in Java, JavaScript.
+- 📫 Skilled in Laravel and JavaScript.
 
 <br>
 
