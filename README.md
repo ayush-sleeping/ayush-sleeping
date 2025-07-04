@@ -29,7 +29,7 @@
 - 👀 I’m interested in [Fullstack Web. Developing](https://www.geeksforgeeks.org/what-is-full-stack-development/) and [Software dEV](https://en.wikipedia.org/wiki/Software_development)
 - 🌱 Currently deep diving in FullStack Web Development
 - 💞️ I’m trying make some good Personal Projects now a days
-- 📫 Skilled in Laravel and JavaScript.
+- 📫 Skilled in Laravel, MySQL, JavaScript, HTML, CSS, Basics of ReactJS Library, BootStrap Framework & Tailwind Framework
 
 <br>
 
