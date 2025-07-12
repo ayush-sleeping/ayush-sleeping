@@ -5,7 +5,7 @@
 
 <div align="center">
 <h2> "Hey, How you doin'?" <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ,  &nbsp; &nbsp; Welcome to  "Ayush  Mishra's"  profile!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50"  height="30">. </h2>
-     <p>  Skilled in Web development  |  Bachelor of Science in Computer Science - Graduated 2023 </p>
+     <p>  Skilled in FullStack Web development Applications |  Bachelor of Science in Computer Science - Graduated 2023 </p>
 </div> 
 
 <br>
@@ -29,7 +29,7 @@
 - 👀 I’m interested in [Fullstack Web. Developing](https://www.geeksforgeeks.org/what-is-full-stack-development/) and [Software dEV](https://en.wikipedia.org/wiki/Software_development)
 - 🌱 Currently deep diving in FullStack Web Development
 - 💞️ I’m trying make some good Personal Projects now a days
-- 📫 Skilled in Laravel, MySQL, JavaScript, HTML, CSS, Basics of ReactJS Library, BootStrap Framework & Tailwind Framework
+- 📫 Skilled in **Laravel, MySQL, JavaScript, HTML, CSS, Basics of ReactJS Library, BootStrap Framework & Tailwind Framework**
 
 <br>
 
@@ -79,10 +79,10 @@
      
 <br>
 <!-- ---------------------------------------------------------------------------------------- -->
+  
+<br>
 
-
-<details>
-  <summary><b>⚡ GitHub Stats</b></summary>
+  <summary><b>⚡ GitHub Stats and Used languaes</b></summary>
      <br />
      <div>
      <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
@@ -92,12 +92,11 @@
       <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-sleeping&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
 </div>
-     </details>
- 
- 
+   
+<br>
+
 <!-- ---------------------------------------------------------------------------------------- -->
 
-<details>	
   <summary><b>☄️ GitHub Streaks</b></summary>
      <br />
      <div>
@@ -105,18 +104,16 @@
      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-sleeping&theme=react&border=61dafb&hide_border=true" />
     </a>
      </div>
-</details>
 
 <!-- ---------------------------------------------------------------------------------------- -->
+  
+<br>
 
-<details>
-     <summary><b>📊 GitHub Graphs </b></summary>
+<summary><b>📊 GitHub Graphs </b></summary>
      <br />
-     <div>
-         
+     
 [![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayush-sleeping&bg_color=0d0e12&color=1c81ce&line=0f1129&point=079ae4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-     </div>
-</details>
+   
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------------->
 </details>              
