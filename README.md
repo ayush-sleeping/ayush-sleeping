@@ -65,11 +65,6 @@
         <img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> 
       </a>
     </td>
-    <td>
-      <a href="https://www.instagram.com/ayush.bm/"> 
-        <img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-      </a>
-    </td>
   </tr>
 </table>
 </div>
@@ -118,10 +113,10 @@
      <summary><b>📊 GitHub Graphs </b></summary>
      <br />
      <div>
-          <img src="https://activity-graph.herokuapp.com/graph?username=ayush-sleeping&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+         
+[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayush-sleeping&bg_color=0d0e12&color=1c81ce&line=0f1129&point=079ae4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
      </div>
 </details>
-
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------------->
 </details>              
