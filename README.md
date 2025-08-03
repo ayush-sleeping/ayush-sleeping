@@ -29,7 +29,66 @@
 - 👀 I’m interested in [Fullstack Web. Developing](https://www.geeksforgeeks.org/what-is-full-stack-development/) and [Software dEV](https://en.wikipedia.org/wiki/Software_development)
 - 🌱 Currently deep diving in FullStack Web Development
 - 💞️ I’m trying make some good Personal Projects now a days
-- 📫 Skilled in **Laravel, MySQL, JavaScript, HTML, CSS, Basics of ReactJS Library, BootStrap Framework & Tailwind Framework**
+<!-- - 📫 Skilled in **Laravel, MySQL, JavaScript, HTML, CSS, Basics of ReactJS Library, BootStrap Framework & Tailwind Framework** -->
+
+<table style="width: 100%; border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th style="padding: 12px 16px;">Primary Language</th>
+      <th style="padding: 12px 16px;">Frontend</th>
+      <th style="padding: 12px 16px;">Backend</th>
+      <th style="padding: 12px 16px;">Database</th>
+      <th style="padding: 12px 16px;">Library</th>
+      <th style="padding: 12px 16px;">Others</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 12px 16px;">JavaScript</td>
+      <td style="padding: 12px 16px;">HTML</td>
+      <td style="padding: 12px 16px;">Laravel Php Framework</td>
+      <td style="padding: 12px 16px;">MySQL</td>
+      <td style="padding: 12px 16px;">ReactJS</td>
+      <td style="padding: 12px 16px;">Git & GitHub</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 16px;"></td>
+      <td style="padding: 12px 16px;">CSS</td>
+      <td style="padding: 12px 16px;"></td>
+      <td style="padding: 12px 16px;"></td>
+      <td style="padding: 12px 16px;">Bootstrap</td>
+      <td style="padding: 12px 16px;">RESTful APIs</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 16px;"></td>
+      <td style="padding: 12px 16px;">JavaScript</td>
+      <td style="padding: 12px 16px;"></td>
+      <td style="padding: 12px 16px;"></td>
+      <td style="padding: 12px 16px;">Tailwind CSS</td>
+      <td style="padding: 12px 16px;">Postman (API Testing)</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 16px;"></td>
+      <td style="padding: 12px 16px;"></td>
+      <td style="padding: 12px 16px;"></td>
+      <td style="padding: 12px 16px;"></td>
+      <td style="padding: 12px 16px;"></td>
+      <td style="padding: 12px 16px;">AWS</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 16px;"></td>
+      <td style="padding: 12px 16px;"></td>
+      <td style="padding: 12px 16px;"></td>
+      <td style="padding: 12px 16px;"></td>
+      <td style="padding: 12px 16px;"></td>
+      <td style="padding: 12px 16px;">VS Code / Code Editors</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
 
 <br>
 
@@ -362,7 +421,7 @@
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <details>
-  <summary>📊 <b>GitHub Stats, Streaks & Contributions</b></summary>
+  <summary>GitHub Stats, Streaks & Contributions :</summary>
   <br>
 
 <table>
