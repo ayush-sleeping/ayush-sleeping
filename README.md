@@ -42,7 +42,7 @@
 <br>
 
 <div align="center">
-     <table border="1" cellpadding="15" cellspacing="0" style="border-collapse: collapse; width: 100%; margin: 20px auto;">
+     <table cellpadding="15" cellspacing="0" style="border-collapse: collapse; width: 100%; margin: 20px auto;">
           <thead>
                <tr style="color: white;">
                     <th style="padding: 15px; text-align: center; font-weight: bold;">🚀 Project Name</th>
@@ -362,47 +362,49 @@
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <details>
-     <summary> GitHub Stats, Streaks & Contribution Stuffs (for those who like): </summary>
+  <summary>📊 <b>GitHub Stats, Streaks & Contributions</b></summary>
+  <br>
 
-<br>
-<!-- ---------------------------------------------------------------------------------------- -->
+<table>
+  <tr>
+    <th colspan="2">⚡ GitHub Stats and Top Languages</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats Source">
+        <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ayush-sleeping&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats" title="Top Languages Source">
+        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-sleeping&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      </a>
+    </td>
+  </tr>
 
-<br>
+  <tr>
+    <th colspan="2">🔥 GitHub Streaks</th>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Streak Stats Source">
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-sleeping&theme=react&border=61dafb&hide_border=true" />
+      </a>
+    </td>
+  </tr>
 
-  <summary><b>⚡ GitHub Stats and Used languaes</b></summary>
-     <br />
-     <div>
-     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ayush-sleeping&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true" />
-    </a>
-     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-sleeping&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-</div>
+  <tr>
+    <th colspan="2">📈 Contribution Graph</th>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="Activity Graph Source">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-sleeping&bg_color=0d0e12&color=1c81ce&line=0f1129&point=079ae4&area=true&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<br>
-
-<!-- ---------------------------------------------------------------------------------------- -->
-
-  <summary><b>☄️ GitHub Streaks</b></summary>
-     <br />
-     <div>
-     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-sleeping&theme=react&border=61dafb&hide_border=true" />
-    </a>
-     </div>
-
-<!-- ---------------------------------------------------------------------------------------- -->
-
-<br>
-
-<summary><b>📊 GitHub Graphs </b></summary>
-     <br />
-
-[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayush-sleeping&bg_color=0d0e12&color=1c81ce&line=0f1129&point=079ae4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------------->
 </details>
 
 <br>
