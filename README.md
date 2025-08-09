@@ -1,6 +1,5 @@
 <div id="top"></div>
 
-
 <!-- ---------------------------------------------------------------------------------------- -->
 
 <div align="center">
@@ -83,15 +82,13 @@
       <td style="padding: 12px 16px;"></td>
       <td style="padding: 12px 16px;">VS Code / Code Editors</td>
     </tr>
+    <tr>
+        <th colspan="6" style="text-align: center;">Familiar with Angular, Core Java, Spring Boot, Hibernate </th>
+    </tr>
   </tbody>
 </table>
 
-
-
-
-
 <br>
-
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------->
@@ -104,24 +101,24 @@
      <table cellpadding="15" cellspacing="0" style="border-collapse: collapse; width: 100%; margin: 20px auto;">
           <thead>
                <tr style="color: white;">
-                    <th style="padding: 15px; text-align: center; font-weight: bold;">🚀 Project Name</th>
-                    <th style="padding: 15px; text-align: center; font-weight: bold;">🛠️ Tech Stack</th>
-                    <th style="padding: 15px; text-align: center; font-weight: bold;">📅 Date</th>
-                    <th style="padding: 15px; text-align: center; font-weight: bold;">📝 Description</th>
-                    <th style="padding: 15px; text-align: center; font-weight: bold;">🔗 Repository</th>
+                    <th style="padding: 15px; text-align: center; font-weight: bold;">Project Name</th>
+                    <th style="padding: 15px; text-align: center; font-weight: bold;">Tech Stack</th>
+                    <th style="padding: 15px; text-align: center; font-weight: bold;">Date</th>
+                    <th style="padding: 15px; text-align: center; font-weight: bold;">Description</th>
+                    <th style="padding: 15px; text-align: center; font-weight: bold;">Repository</th>
                </tr>
           </thead>
           <tbody>
                <!-- 2025 Projects (Latest) -->
+                <tr>
+                    <th colspan="5">📈 &nbsp; 2023 2025 Projects (Latest) </th>
+                </tr>
                <tr>
                     <td style="padding: 12px; text-align: center; font-weight: bold; color: #ffffff;">
                          WriteOn
                     </td>
-                    <td style="padding: 12px; text-align: center;">
-                         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-                         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-                         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-                         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+                    <td style="padding: 12px; text-align: center; color: #cbd5e0;">
+                         React, JavaScript, HTML, CSS
                     </td>
                     <td style="padding: 12px; text-align: center; color: #cbd5e0;">
                          2025
@@ -139,11 +136,8 @@
                     <td style="padding: 12px; text-align: center; font-weight: bold; color: #ffffff;">
                          DailyBuzz
                     </td>
-                    <td style="padding: 12px; text-align: center;">
-                         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-                         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-                         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-                         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+                    <td style="padding: 12px; text-align: center; color: #cbd5e0;">
+                         React, JavaScript, HTML, CSS
                     </td>
                     <td style="padding: 12px; text-align: center; color: #cbd5e0;">
                          2025
@@ -161,10 +155,8 @@
                     <td style="padding: 12px; text-align: center; font-weight: bold; color: #ffffff;">
                          Personal Portfolio
                     </td>
-                    <td style="padding: 12px; text-align: center;">
-                         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-                         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-                         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+                    <td style="padding: 12px; text-align: center; color: #cbd5e0;">
+                         HTML, CSS, JavaScript
                     </td>
                     <td style="padding: 12px; text-align: center; color: #cbd5e0;">
                          2023-2025
@@ -179,15 +171,15 @@
                     </td>
                </tr>
                <!-- 2023 Projects -->
+                <tr>
+                    <th colspan="5">📈 &nbsp;  2023 Projects</th>
+                </tr>
                <tr>
                     <td style="padding: 12px; text-align: center; font-weight: bold; color: #ffffff;">
                          NFT-Ecommerce
                     </td>
-                    <td style="padding: 12px; text-align: center;">
-                         <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-                         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-                         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-                         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+                    <td style="padding: 12px; text-align: center; color: #cbd5e0;">
+                         Angular, JavaScript, HTML, CSS
                     </td>
                     <td style="padding: 12px; text-align: center; color: #cbd5e0;">
                          2023
@@ -205,11 +197,8 @@
                     <td style="padding: 12px; text-align: center; font-weight: bold; color: #ffffff;">
                          Angular ToDo
                     </td>
-                    <td style="padding: 12px; text-align: center;">
-                         <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-                         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-                         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-                         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+                    <td style="padding: 12px; text-align: center; color: #cbd5e0;">
+                         Angular, JavaScript, HTML, CSS
                     </td>
                     <td style="padding: 12px; text-align: center; color: #cbd5e0;">
                          2023
@@ -227,10 +216,8 @@
                     <td style="padding: 12px; text-align: center; font-weight: bold; color: #ffffff;">
                          Brija-Stream
                     </td>
-                    <td style="padding: 12px; text-align: center;">
-                         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-                         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-                         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+                    <td style="padding: 12px; text-align: center; color: #cbd5e0;">
+                         HTML, CSS, JavaScript
                     </td>
                     <td style="padding: 12px; text-align: center; color: #cbd5e0;">
                          2023
@@ -248,10 +235,8 @@
                     <td style="padding: 12px; text-align: center; font-weight: bold; color: #ffffff;">
                          JaBri-Travel
                     </td>
-                    <td style="padding: 12px; text-align: center;">
-                         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-                         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-                         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+                    <td style="padding: 12px; text-align: center; color: #cbd5e0;">
+                         HTML, CSS, JavaScript
                     </td>
                     <td style="padding: 12px; text-align: center; color: #cbd5e0;">
                          2023
@@ -266,14 +251,15 @@
                     </td>
                </tr>
                <!-- 2021-2022 Projects -->
+                <tr>
+                    <th colspan="5">📈 &nbsp;  2021 - 2022 Projects</th>
+                </tr>
                <tr>
                     <td style="padding: 12px; text-align: center; font-weight: bold; color: #ffffff;">
                          Hex-code-color-picker-extension
                     </td>
-                    <td style="padding: 12px; text-align: center;">
-                         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-                         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-                         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+                    <td style="padding: 12px; text-align: center; color: #cbd5e0;">
+                         HTML, CSS, JavaScript
                     </td>
                     <td style="padding: 12px; text-align: center; color: #cbd5e0;">
                          2021-2022
@@ -291,10 +277,8 @@
                     <td style="padding: 12px; text-align: center; font-weight: bold; color: #ffffff;">
                          JavaScript-mini-Projects
                     </td>
-                    <td style="padding: 12px; text-align: center;">
-                         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-                         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-                         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+                    <td style="padding: 12px; text-align: center; color: #cbd5e0;">
+                         HTML, CSS, JavaScript
                     </td>
                     <td style="padding: 12px; text-align: center; color: #cbd5e0;">
                          2021-2022
@@ -309,13 +293,15 @@
                     </td>
                </tr>
                <!-- 2020-2021 Projects -->
+                <tr>
+                    <th colspan="5">📈 &nbsp;  2020 - 2021 Projects</th>
+                </tr>
                <tr>
                     <td style="padding: 12px; text-align: center; font-weight: bold; color: #ffffff;">
                          CSS-Cards
                     </td>
-                    <td style="padding: 12px; text-align: center;">
-                         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-                         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+                    <td style="padding: 12px; text-align: center; color: #cbd5e0;">
+                         HTML, CSS
                     </td>
                     <td style="padding: 12px; text-align: center; color: #cbd5e0;">
                          2020-2021
@@ -333,9 +319,8 @@
                     <td style="padding: 12px; text-align: center; font-weight: bold; color: #ffffff;">
                          CSS-mini-Projects
                     </td>
-                    <td style="padding: 12px; text-align: center;">
-                         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-                         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+                    <td style="padding: 12px; text-align: center; color: #cbd5e0;">
+                         HTML, CSS
                     </td>
                     <td style="padding: 12px; text-align: center; color: #cbd5e0;">
                          2020-2021
@@ -353,8 +338,8 @@
                     <td style="padding: 12px; text-align: center; font-weight: bold; color: #ffffff;">
                          HTML-mini-Projects
                     </td>
-                    <td style="padding: 12px; text-align: center;">
-                         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+                    <td style="padding: 12px; text-align: center; color: #cbd5e0;">
+                         HTML
                     </td>
                     <td style="padding: 12px; text-align: center; color: #cbd5e0;">
                          2020-2021
@@ -371,14 +356,6 @@
           </tbody>
      </table>
 </div>
-
-
-
-
-
-
-
-
 
 <br>
 
@@ -426,7 +403,7 @@
 
 <table>
   <tr>
-    <th colspan="2">⚡ GitHub Stats and Top Languages</th>
+    <th colspan="2" style="text-align: center;">⚡ &nbsp;  GitHub Stats and Top Languages</th>
   </tr>
   <tr>
     <td>
@@ -440,9 +417,8 @@
       </a>
     </td>
   </tr>
-
   <tr>
-    <th colspan="2">🔥 GitHub Streaks</th>
+    <th colspan="2" style="text-align: center;">🔥 &nbsp;  GitHub Streaks</th>
   </tr>
   <tr>
     <td colspan="2" align="center">
@@ -451,9 +427,8 @@
       </a>
     </td>
   </tr>
-
   <tr>
-    <th colspan="2">📈 Contribution Graph</th>
+    <th colspan="2" style="text-align: center;">📈 &nbsp; Contribution Graph</th>
   </tr>
   <tr>
     <td colspan="2" align="center">
@@ -467,7 +442,6 @@
 </details>
 
 <br>
-
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
