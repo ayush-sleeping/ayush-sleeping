@@ -111,14 +111,14 @@
           <tbody>
                <!-- 2025 Projects (Latest) -->
                 <tr>
-                    <th colspan="5">📈 &nbsp; 2023 2025 Projects (Latest) </th>
+                    <th colspan="5">📈 &nbsp; 2025 Projects</th>
                 </tr>
                <tr>
                     <td style="padding: 12px; text-align: center; font-weight: bold; color: #ffffff;">
                          WriteOn
                     </td>
                     <td style="padding: 12px; text-align: center; color: #cbd5e0;">
-                         React, JavaScript, HTML, CSS
+                         React, Firebase, JavaScript, HTML, CSS
                     </td>
                     <td style="padding: 12px; text-align: center; color: #cbd5e0;">
                          2025
@@ -137,7 +137,7 @@
                          DailyBuzz
                     </td>
                     <td style="padding: 12px; text-align: center; color: #cbd5e0;">
-                         React, JavaScript, HTML, CSS
+                         React, NewsAPI, JavaScript, HTML, CSS
                     </td>
                     <td style="padding: 12px; text-align: center; color: #cbd5e0;">
                          2025
@@ -156,7 +156,7 @@
                          Personal Portfolio
                     </td>
                     <td style="padding: 12px; text-align: center; color: #cbd5e0;">
-                         HTML, CSS, JavaScript
+                         HTML, CSS, JavaScript, Firebase
                     </td>
                     <td style="padding: 12px; text-align: center; color: #cbd5e0;">
                          2023-2025
