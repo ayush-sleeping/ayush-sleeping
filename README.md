@@ -115,6 +115,25 @@
                 </tr>
                <tr>
                     <td style="padding: 12px; text-align: center; font-weight: bold; color: #ffffff;">
+                         LaraBaseX
+                    </td>
+                    <td style="padding: 12px; text-align: center; color: #cbd5e0;">
+                         Laravel, React, Shadcn UI
+                    </td>
+                    <td style="padding: 12px; text-align: center; color: #cbd5e0;">
+                         2025
+                    </td>
+                    <td style="padding: 12px; text-align: center; color: #cbd5e0;">
+                         Secure, modular, production-ready base project using Laravel 12 with ReactJS
+                    </td>
+                    <td style="padding: 12px; text-align: center;">
+                         <a href="https://github.com/ayush-sleeping/LaraBaseX" target="_blank">
+                              <img src="https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+                         </a>
+                    </td>
+               </tr>
+               <tr>
+                    <td style="padding: 12px; text-align: center; font-weight: bold; color: #ffffff;">
                          WriteOn
                     </td>
                     <td style="padding: 12px; text-align: center; color: #cbd5e0;">
