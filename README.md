@@ -27,6 +27,16 @@
 - 👀 I’m interested in [Fullstack Web. Developing](https://www.geeksforgeeks.org/what-is-full-stack-development/) and [Software dEV](https://en.wikipedia.org/wiki/Software_development)
 - 🌱 Currently deep diving in FullStack Web Development Applications
 -  📫 Skilled in :
+  
+       - Frontend : HTML, CSS, JavaScript, BootStrap, ReactJS, Tailwind, Basics of TypeScript
+       - Backend : Laravel (php) Framework, RESTful APIs
+       - DataBase : MySQL
+       - Others/Tools : Git, Postman (API Testing), Cloud
+       - Familiar with Angular, Core Java, Spring Boot, Hibernate
+
+
+
+   <!-- 
 <table style="width: 100%; border-collapse: collapse;">
   <thead>
     <tr>
@@ -84,6 +94,7 @@
     </tr>
   </tbody>
 </table>
+-->
 
 <!-- - 📫 Skilled in **Laravel, MySQL, JavaScript, HTML, CSS, Basics of ReactJS Library, BootStrap Framework & Tailwind Framework** -->
 <br>
