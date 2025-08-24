@@ -4,7 +4,7 @@
 
 <div align="center">
 <h2> "Hey, How you doin'?" <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ,  &nbsp; &nbsp; Welcome to  "Ayush  Mishra's"  profile!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50"  height="30">. </h2>
-     <p>  Skilled in FullStack Web development Applications |  Bachelor of Science in Computer Science - Graduated 2023 </p>
+     <p>  Skilled in FullStack Web development Applications  </p>
 </div>
 
 <br>
@@ -24,12 +24,9 @@
 <br>
 
 - 👋 Hi, I’m Ayush Mishra, A full-stack developer with 1+ years of experience in Laravel, JavaScript, and REST API development.
-- 🎓 "Bachelor Of Science in Computer Science" from [SN college](https://sncollege.com/) (Affiliated to the Mumbai University), 2020 - 2023
 - 👀 I’m interested in [Fullstack Web. Developing](https://www.geeksforgeeks.org/what-is-full-stack-development/) and [Software dEV](https://en.wikipedia.org/wiki/Software_development)
-- 🌱 Currently deep diving in FullStack Web Development
-- 💞️ I’m trying make some good Personal Projects now a days
-<!-- - 📫 Skilled in **Laravel, MySQL, JavaScript, HTML, CSS, Basics of ReactJS Library, BootStrap Framework & Tailwind Framework** -->
-
+- 🌱 Currently deep diving in FullStack Web Development Applications
+-  📫 Skilled in :
 <table style="width: 100%; border-collapse: collapse;">
   <thead>
     <tr>
@@ -88,6 +85,7 @@
   </tbody>
 </table>
 
+<!-- - 📫 Skilled in **Laravel, MySQL, JavaScript, HTML, CSS, Basics of ReactJS Library, BootStrap Framework & Tailwind Framework** -->
 <br>
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------->
