@@ -1,102 +1,19 @@
-<div id="top"></div>
+## Hi there, I'm Ayush!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40"  height="30">
 
-<!-- ---------------------------------------------------------------------------------------- -->
-
-<div align="center">
-<h2> "Hey, How you doin'?" <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ,  &nbsp; &nbsp; Welcome to  "Ayush  Mishra's"  profile!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50"  height="30">. </h2>
-     <p>  Skilled in FullStack Web development Applications  </p>
-</div>
+- Hi, I’m Ayush Mishra, A full-stack developer with 1+ years of experience in Laravel, JavaScript, and REST API development.
+- I’m interested in building scalable [Fullstack Web Applications](https://www.geeksforgeeks.org/what-is-full-stack-development/) and [Software dEV](https://en.wikipedia.org/wiki/Software_development)
+- Currently deep diving in JavaScript
 
 <br>
 
-<!-- ---------------------------------------------------------------------------------------- -->
+Tech & Tools I Work With :  <br>
+- **Primary Language** : JavaScript
+- **Frontend** : HTML, CSS, JavaScript, BootStrap, ReactJS, Tailwind, Basics of TypeScript, <br>
+- **Backend** : Laravel (php) Framework, RESTful APIs, <br>
+- **DataBase** : MySQL, <br>
+- **Others/Tools** : Git, Postman (API Testing), Cloud, <br>
+- **Familiar with** : Angular, Core Java, Spring Boot, Hibernate <br>
 
-<p align="center">
-  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fayush-sleeping"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fayush-sleeping&countColor=%237B1E7A" /></a>
-  <a href="https://github.com/ayush-sleeping?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-  <a href="https://github.com/ayush-sleeping?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ayush-sleeping"/></a>
-  <a href="https://github.com/ayush-sleeping?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ayush-sleeping?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="#"><img alt="Open Source Love" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/ayush-sleeping" > </a>
-
-</p>
-<br>
-
-- 👋 Hi, I’m Ayush Mishra, A full-stack developer with 1+ years of experience in Laravel, JavaScript, and REST API development.
-- 👀 I’m interested in [Fullstack Web. Developing](https://www.geeksforgeeks.org/what-is-full-stack-development/) and [Software dEV](https://en.wikipedia.org/wiki/Software_development)
-- 🌱 Currently deep diving in FullStack Web Development Applications
--  📫 Skilled in :
-  
-       - Frontend : HTML, CSS, JavaScript, BootStrap, ReactJS, Tailwind, Basics of TypeScript
-       - Backend : Laravel (php) Framework, RESTful APIs
-       - DataBase : MySQL
-       - Others/Tools : Git, Postman (API Testing), Cloud
-       - Familiar with Angular, Core Java, Spring Boot, Hibernate
-
-
-
-   <!-- 
-<table style="width: 100%; border-collapse: collapse;">
-  <thead>
-    <tr>
-      <th style="padding: 12px 16px;">Primary Language</th>
-      <th style="padding: 12px 16px;">Frontend</th>
-      <th style="padding: 12px 16px;">Backend</th>
-      <th style="padding: 12px 16px;">Database</th>
-      <th style="padding: 12px 16px;">Library</th>
-      <th style="padding: 12px 16px;">Others</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 12px 16px;">JavaScript</td>
-      <td style="padding: 12px 16px;">HTML</td>
-      <td style="padding: 12px 16px;">Laravel Php Framework</td>
-      <td style="padding: 12px 16px;">MySQL</td>
-      <td style="padding: 12px 16px;">ReactJS</td>
-      <td style="padding: 12px 16px;">Git & GitHub</td>
-    </tr>
-    <tr>
-      <td style="padding: 12px 16px;"></td>
-      <td style="padding: 12px 16px;">CSS</td>
-      <td style="padding: 12px 16px;"></td>
-      <td style="padding: 12px 16px;"></td>
-      <td style="padding: 12px 16px;">Bootstrap</td>
-      <td style="padding: 12px 16px;">RESTful APIs</td>
-    </tr>
-    <tr>
-      <td style="padding: 12px 16px;"></td>
-      <td style="padding: 12px 16px;">JavaScript</td>
-      <td style="padding: 12px 16px;"></td>
-      <td style="padding: 12px 16px;"></td>
-      <td style="padding: 12px 16px;">Tailwind CSS</td>
-      <td style="padding: 12px 16px;">Postman (API Testing)</td>
-    </tr>
-    <tr>
-      <td style="padding: 12px 16px;"></td>
-      <td style="padding: 12px 16px;"></td>
-      <td style="padding: 12px 16px;"></td>
-      <td style="padding: 12px 16px;"></td>
-      <td style="padding: 12px 16px;"></td>
-      <td style="padding: 12px 16px;">AWS</td>
-    </tr>
-    <tr>
-      <td style="padding: 12px 16px;"></td>
-      <td style="padding: 12px 16px;"></td>
-      <td style="padding: 12px 16px;"></td>
-      <td style="padding: 12px 16px;"></td>
-      <td style="padding: 12px 16px;"></td>
-      <td style="padding: 12px 16px;">VS Code / Code Editors</td>
-    </tr>
-    <tr>
-        <th colspan="6" style="text-align: center;">Familiar with Angular, Core Java, Spring Boot, Hibernate </th>
-    </tr>
-  </tbody>
-</table>
--->
-
-<!-- - 📫 Skilled in **Laravel, MySQL, JavaScript, HTML, CSS, Basics of ReactJS Library, BootStrap Framework & Tailwind Framework** -->
 <br>
 
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------->
@@ -431,7 +348,7 @@
 
 <table>
   <tr>
-    <th colspan="2" style="text-align: center;">⚡ &nbsp;  GitHub Stats and Top Languages</th>
+    <th colspan="2" style="text-align: center;"> ⚡ &nbsp;  GitHub Stats and Top Languages</th>
   </tr>
   <tr>
     <td>
@@ -465,6 +382,19 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <th colspan="2" style="text-align: center;"></th>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+
+[![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://github.com/ayush-sleeping)
+[![Think Big](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://github.com/ayush-sleeping)
+[![Work Hard](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://github.com/ayush-sleeping)
+
+      
+</td>
+  </tr>
 </table>
 
 </details>
@@ -473,6 +403,124 @@
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-[![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://github.com/ayush-sleeping)
-[![Think Big](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://github.com/ayush-sleeping)
-[![Work Hard](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://github.com/ayush-sleeping)
+
+
+<p align="center">
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fayush-sleeping"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fayush-sleeping&countColor=%237B1E7A" /></a>
+  <a href="https://github.com/ayush-sleeping?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/ayush-sleeping?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ayush-sleeping"/></a>
+  <a href="https://github.com/ayush-sleeping?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ayush-sleeping?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="#"><img alt="Open Source Love" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/ayush-sleeping" > </a>
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+<!-- 
+
+<div align="center">
+<h2> "Hey, How you doin'?" <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ,  &nbsp; &nbsp; Welcome to  "Ayush  Mishra's"  profile!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50"  height="30">. </h2>
+     <p>  Skilled in FullStack Web development Applications  </p>
+</div>
+
+<br>
+
+
+
+<p align="center">
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fayush-sleeping"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fayush-sleeping&countColor=%237B1E7A" /></a>
+  <a href="https://github.com/ayush-sleeping?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/ayush-sleeping?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ayush-sleeping"/></a>
+  <a href="https://github.com/ayush-sleeping?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ayush-sleeping?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="#"><img alt="Open Source Love" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/ayush-sleeping" > </a>
+
+</p>
+<br>
+
+- 👋 Hi, I’m Ayush Mishra, A full-stack developer with 1+ years of experience in Laravel, JavaScript, and REST API development.
+- 👀 I’m interested in [Fullstack Web. Developing](https://www.geeksforgeeks.org/what-is-full-stack-development/) and [Software dEV](https://en.wikipedia.org/wiki/Software_development)
+- 🌱 Currently deep diving in FullStack Web Development Applications
+-  📫 Skilled in :
+  
+       - Frontend : HTML, CSS, JavaScript, BootStrap, ReactJS, Tailwind, Basics of TypeScript
+       - Backend : Laravel (php) Framework, RESTful APIs
+       - DataBase : MySQL
+       - Others/Tools : Git, Postman (API Testing), Cloud
+       - Familiar with Angular, Core Java, Spring Boot, Hibernate
+
+ -->
+
+   <!-- 
+<table style="width: 100%; border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th style="padding: 12px 16px;">Primary Language</th>
+      <th style="padding: 12px 16px;">Frontend</th>
+      <th style="padding: 12px 16px;">Backend</th>
+      <th style="padding: 12px 16px;">Database</th>
+      <th style="padding: 12px 16px;">Library</th>
+      <th style="padding: 12px 16px;">Others</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 12px 16px;">JavaScript</td>
+      <td style="padding: 12px 16px;">HTML</td>
+      <td style="padding: 12px 16px;">Laravel Php Framework</td>
+      <td style="padding: 12px 16px;">MySQL</td>
+      <td style="padding: 12px 16px;">ReactJS</td>
+      <td style="padding: 12px 16px;">Git & GitHub</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 16px;"></td>
+      <td style="padding: 12px 16px;">CSS</td>
+      <td style="padding: 12px 16px;"></td>
+      <td style="padding: 12px 16px;"></td>
+      <td style="padding: 12px 16px;">Bootstrap</td>
+      <td style="padding: 12px 16px;">RESTful APIs</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 16px;"></td>
+      <td style="padding: 12px 16px;">JavaScript</td>
+      <td style="padding: 12px 16px;"></td>
+      <td style="padding: 12px 16px;"></td>
+      <td style="padding: 12px 16px;">Tailwind CSS</td>
+      <td style="padding: 12px 16px;">Postman (API Testing)</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 16px;"></td>
+      <td style="padding: 12px 16px;"></td>
+      <td style="padding: 12px 16px;"></td>
+      <td style="padding: 12px 16px;"></td>
+      <td style="padding: 12px 16px;"></td>
+      <td style="padding: 12px 16px;">AWS</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 16px;"></td>
+      <td style="padding: 12px 16px;"></td>
+      <td style="padding: 12px 16px;"></td>
+      <td style="padding: 12px 16px;"></td>
+      <td style="padding: 12px 16px;"></td>
+      <td style="padding: 12px 16px;">VS Code / Code Editors</td>
+    </tr>
+    <tr>
+        <th colspan="6" style="text-align: center;">Familiar with Angular, Core Java, Spring Boot, Hibernate </th>
+    </tr>
+  </tbody>
+</table>
+-->
+
+<!-- - 📫 Skilled in **Laravel, MySQL, JavaScript, HTML, CSS, Basics of ReactJS Library, BootStrap Framework & Tailwind Framework** -->
