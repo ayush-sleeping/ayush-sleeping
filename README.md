@@ -1,15 +1,16 @@
 ## Hi there, I'm Ayush!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40"  height="30">
 
-- Hi, I’m Ayush Mishra, A full-stack developer with 1+ years of experience in Laravel, JavaScript, and REST API development.
-- I’m interested in building scalable [Fullstack Web Applications](https://www.geeksforgeeks.org/what-is-full-stack-development/) and [Software dEV](https://en.wikipedia.org/wiki/Software_development)
-- Currently deep diving in JavaScript
+- A full-stack developer with **1 years + 3 months** of experience in Web - Backend + Frontend and API development.
+- I’m interested in building scalable [FullStack Web Applications](https://www.geeksforgeeks.org/what-is-full-stack-development/) and [Software dEV](https://en.wikipedia.org/wiki/Software_development)
+- [Personal Portfolio](https://ayush-sleeping.github.io/Personal-Portfolio/)
+
 
 <br>
 
 Tech & Tools I Work With :  <br>
 - **Primary Language** : JavaScript
-- **Frontend** : HTML, CSS, JavaScript, BootStrap, ReactJS, Tailwind, Basics of TypeScript, <br>
-- **Backend** : Laravel (php) Framework, RESTful APIs, <br>
+- **Frontend** : HTML, CSS, JavaScript, BootStrap, Basics of - ReactJS, Tailwind, TypeScript, <br>
+- **Backend** : Laravel (Php) Framework, RESTful APIs, Basics of - CakePhp, Laravel LiveWire + Volt <br>
 - **DataBase** : MySQL, <br>
 - **Others/Tools** : Git, Postman (API Testing), Cloud, <br>
 - **Familiar with** : Angular, Core Java, Spring Boot, Hibernate <br>
