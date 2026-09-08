@@ -1,18 +1,19 @@
 ## Hi there, I'm Ayush!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40"  height="30">
 
-- A full-stack developer with **2 Years** of experience in Web - Backend + Frontend and API development.
-- I’m interested in building scalable [FullStack Web Applications](https://www.geeksforgeeks.org/what-is-full-stack-development/) and [Software dEV](https://en.wikipedia.org/wiki/Software_development)
-- [Personal Portfolio](https://ayush-sleeping.github.io/Personal-Portfolio/)
-
+- A FullStack Web Developer & Backend Specialist based in India, with **2+ years** of experience building scalable web applications and REST APIs.
+- Currently working as a **Backend Developer at Leapswitch Networks** (Oct 2025 - Present).
+- I build with [Laravel](https://laravel.com/) and JavaScript, and I'm now going deeper into **Python, Django and Next.js**.
+- 🌐 [Personal Portfolio](https://ayush-sleeping.github.io/Personal-Portfolio/) &nbsp;|&nbsp; 📫 ayushbm84@gmail.com
 
 <br>
 
 Tech & Tools I Work With :  <br>
-- **Primary Language** : JavaScript
-- **Frontend** : HTML, CSS, JavaScript, BootStrap, Basics of - ReactJS, Tailwind, TypeScript, <br>
-- **Backend** : Laravel (Php) Framework, RESTful APIs, Basics of - CakePhp, Laravel LiveWire + Volt <br>
-- **DataBase** : MySQL, <br>
-- **Others/Tools** : Git, Postman (API Testing), Cloud, <br>
+- **Primary Language** : JavaScript, PHP
+- **Backend** : Laravel (PHP) Framework, RESTful APIs, Basics of - CakePHP, Laravel Livewire + Volt, Django <br>
+- **Frontend** : HTML, CSS, JavaScript, Bootstrap, ReactJS, Tailwind CSS, Basics of - Next.js, TypeScript <br>
+- **Database** : MySQL <br>
+- **Others/Tools** : Git & GitHub, Postman (API Testing), AWS / Cloud <br>
+- **Currently Learning** : Python, Django, Next.js <br>
 - **Familiar with** : Angular, Core Java, Spring Boot, Hibernate <br>
 
 <br>
@@ -45,13 +46,13 @@ Tech & Tools I Work With :  <br>
                          LaraBaseX
                     </td>
                     <td style="padding: 12px; text-align: center; color: #cbd5e0;">
-                         Laravel, React, Shadcn UI
+                         Laravel 12, ReactJS (Vite + Axios), Shadcn UI, MySQL, Tailwind CSS
                     </td>
                     <td style="padding: 12px; text-align: center; color: #cbd5e0;">
                          2025
                     </td>
                     <td style="padding: 12px; text-align: center; color: #cbd5e0;">
-                         Secure, modular, production-ready base project using Laravel 12 with ReactJS
+                         A starter kit for developers who want to skip repetitive setup work and start building features right away
                     </td>
                     <td style="padding: 12px; text-align: center;">
                          <a href="https://github.com/ayush-sleeping/LaraBaseX" target="_blank">
@@ -64,7 +65,7 @@ Tech & Tools I Work With :  <br>
                          WriteOn
                     </td>
                     <td style="padding: 12px; text-align: center; color: #cbd5e0;">
-                         React, Firebase, JavaScript, HTML, CSS
+                         ReactJS, Vite, Firebase, JavaScript, Tailwind CSS, HTML
                     </td>
                     <td style="padding: 12px; text-align: center; color: #cbd5e0;">
                          2025
@@ -76,6 +77,9 @@ Tech & Tools I Work With :  <br>
                          <a href="https://github.com/ayush-sleeping/WriteOn" target="_blank">
                               <img src="https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
                          </a>
+                         <a href="https://ayush-sleeping.github.io/WriteOn/" target="_blank">
+                              <img src="https://img.shields.io/badge/Live%20Demo-1c81ce?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo">
+                         </a>
                     </td>
                </tr>
                <tr>
@@ -83,7 +87,7 @@ Tech & Tools I Work With :  <br>
                          DailyBuzz
                     </td>
                     <td style="padding: 12px; text-align: center; color: #cbd5e0;">
-                         React, NewsAPI, JavaScript, HTML, CSS
+                         ReactJS, Vite, NewsAPI, JavaScript, CSS, HTML
                     </td>
                     <td style="padding: 12px; text-align: center; color: #cbd5e0;">
                          2025
@@ -102,7 +106,7 @@ Tech & Tools I Work With :  <br>
                          Personal Portfolio
                     </td>
                     <td style="padding: 12px; text-align: center; color: #cbd5e0;">
-                         HTML, CSS, JavaScript, Firebase
+                         JavaScript, CSS, HTML, Bootstrap
                     </td>
                     <td style="padding: 12px; text-align: center; color: #cbd5e0;">
                          2023-2025
@@ -113,6 +117,9 @@ Tech & Tools I Work With :  <br>
                     <td style="padding: 12px; text-align: center;">
                          <a href="https://github.com/ayush-sleeping/Personal-Portfolio" target="_blank">
                               <img src="https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+                         </a>
+                         <a href="https://ayush-sleeping.github.io/Personal-Portfolio/" target="_blank">
+                              <img src="https://img.shields.io/badge/Live%20Demo-1c81ce?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo">
                          </a>
                     </td>
                </tr>
@@ -125,7 +132,7 @@ Tech & Tools I Work With :  <br>
                          NFT-Ecommerce
                     </td>
                     <td style="padding: 12px; text-align: center; color: #cbd5e0;">
-                         Angular, JavaScript, HTML, CSS
+                         Angular, JavaScript, Bootstrap, CSS, HTML
                     </td>
                     <td style="padding: 12px; text-align: center; color: #cbd5e0;">
                          2023
@@ -144,7 +151,7 @@ Tech & Tools I Work With :  <br>
                          Angular ToDo
                     </td>
                     <td style="padding: 12px; text-align: center; color: #cbd5e0;">
-                         Angular, JavaScript, HTML, CSS
+                         Angular, JavaScript, Bootstrap, CSS, HTML
                     </td>
                     <td style="padding: 12px; text-align: center; color: #cbd5e0;">
                          2023
@@ -169,11 +176,14 @@ Tech & Tools I Work With :  <br>
                          2023
                     </td>
                     <td style="padding: 12px; text-align: center; color: #cbd5e0;">
-                         Frontend entertainment website powered by HTML, CSS, JavaScript, and API integration
+                         Streaming platform combining the best of Disney+, Prime, Netflix, Hulu and AppleTV+ with advanced search
                     </td>
                     <td style="padding: 12px; text-align: center;">
                          <a href="https://github.com/ayush-sleeping/Brija-Stream" target="_blank">
                               <img src="https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+                         </a>
+                         <a href="https://ayush-sleeping.github.io/Brija-Stream/" target="_blank">
+                              <img src="https://img.shields.io/badge/Live%20Demo-1c81ce?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo">
                          </a>
                     </td>
                </tr>
@@ -188,11 +198,14 @@ Tech & Tools I Work With :  <br>
                          2023
                     </td>
                     <td style="padding: 12px; text-align: center; color: #cbd5e0;">
-                         Fully responsive travel platform for exploring India's diverse landscapes and cultural heritage
+                         Responsive travel booking website featuring modern design and a smooth user experience
                     </td>
                     <td style="padding: 12px; text-align: center;">
                          <a href="https://github.com/ayush-sleeping/JaBri-Travel" target="_blank">
                               <img src="https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+                         </a>
+                         <a href="https://jabri-travel.netlify.app" target="_blank">
+                              <img src="https://img.shields.io/badge/Live%20Demo-1c81ce?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo">
                          </a>
                     </td>
                </tr>
@@ -310,6 +323,24 @@ Tech & Tools I Work With :  <br>
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <details>
+     <summary> What I Work On : </summary>
+
+<br>
+
+| Area | What it covers |
+| :--- | :--- |
+| **Full Stack Web Development** | Complete Laravel + JavaScript solutions - from database design through to the UI, with proper version control and deployment workflows |
+| **Backend Development** | Laravel, Python & Django - MVC architecture, Eloquent ORM, and RESTful APIs with authentication and validation |
+| **Frontend Development** | Mobile-first responsive design, interactive interfaces with modern ES6+ JavaScript & React, and current work in Next.js |
+| **Production & Team Skills** | Git workflows, collaborative development, AWS deployment, debugging and server management |
+
+<br>
+
+</details>
+
+<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<details>
      <summary> You can Contact and Connect with me here : </summary>
 
 <br>
@@ -320,7 +351,7 @@ Tech & Tools I Work With :  <br>
      <table>
   <tr>
     <td>
-      <a href="https://www.linkedin.com/in/ayush-b-m/">
+      <a href="https://www.linkedin.com/in/ayush-bm/">
         <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
       </a>
     </td>
@@ -332,6 +363,16 @@ Tech & Tools I Work With :  <br>
     <td>
       <a href="https://twitter.com/AyushBM1">
         <img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+      </a>
+    </td>
+    <td>
+      <a href="mailto:ayushbm84@gmail.com">
+        <img height="30" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+      </a>
+    </td>
+    <td>
+      <a href="https://ayush-sleeping.github.io/Personal-Portfolio/">
+        <img height="30" src="https://img.shields.io/badge/Portfolio-1c81ce?style=for-the-badge&logo=googlechrome&logoColor=white">
       </a>
     </td>
   </tr>
@@ -347,44 +388,46 @@ Tech & Tools I Work With :  <br>
   <summary>GitHub Stats, Streaks & Contributions :</summary>
   <br>
 
+<div align="center">
+
 <table>
   <tr>
-    <th colspan="2" style="text-align: center;"> ⚡ &nbsp;  GitHub Stats and Top Languages</th>
+    <th colspan="2" align="center"> ⚡ &nbsp;  GitHub Stats and Top Languages</th>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats Source">
-        <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ayush-sleeping&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true" />
+    <td align="center">
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" title="GitHub Stats Source">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayush-sleeping&theme=github_dark" />
       </a>
     </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats" title="Top Languages Source">
-        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-sleeping&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <td align="center">
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" title="Top Languages Source">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayush-sleeping&theme=github_dark" />
       </a>
     </td>
   </tr>
   <tr>
-    <th colspan="2" style="text-align: center;">🔥 &nbsp;  GitHub Streaks</th>
+    <th colspan="2" align="center">🔥 &nbsp;  GitHub Streaks</th>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Streak Stats Source">
-        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-sleeping&theme=react&border=61dafb&hide_border=true" />
+        <img height="180em" src="https://streak-stats.demolab.com/?user=ayush-sleeping&theme=react&border=61dafb&hide_border=true" />
       </a>
     </td>
   </tr>
   <tr>
-    <th colspan="2" style="text-align: center;">📈 &nbsp; Contribution Graph</th>
+    <th colspan="2" align="center">📈 &nbsp; Contribution Graph</th>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="Activity Graph Source">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-sleeping&bg_color=0d0e12&color=1c81ce&line=0f1129&point=079ae4&area=true&hide_border=true" />
+        <img src="https://activity-graph.vercel.app/graph?username=ayush-sleeping&bg_color=0d0e12&color=1c81ce&line=0f1129&point=079ae4&area=true&hide_border=true" />
       </a>
     </td>
   </tr>
   <tr>
-    <th colspan="2" style="text-align: center;"></th>
+    <th colspan="2" align="center"></th>
   </tr>
   <tr>
     <td colspan="2" align="center">
@@ -397,6 +440,8 @@ Tech & Tools I Work With :  <br>
 </td>
   </tr>
 </table>
+
+</div>
 
 </details>
 
